@@ -1,3 +1,3 @@
-# React redux form builder !
+# React redux resume builder !
 ## Live Demo
-[React Resume](m/)
+[React Resume Builder](m/)
