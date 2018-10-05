@@ -6,7 +6,7 @@ export default class NavBar extends React.Component {
     return (
       <div>
         <Navbar color="white" white className="navbar-fixed-top" expand="md">
-          <NavbarBrand href="/">React redux form builder !</NavbarBrand>          
+          <NavbarBrand href="/">React redux resume builder !</NavbarBrand>          
         </Navbar>
       </div>
     );
